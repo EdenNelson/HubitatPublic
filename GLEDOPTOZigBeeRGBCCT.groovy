@@ -35,8 +35,9 @@ metadata {
 
         fingerprint profileId: "0104", inClusters: "0000,0003,0004,0005,0006,0008,0300,0B05,FC01", outClusters: "0019", manufacturer: "LEDVANCE", model: "A19 RGBW", deviceJoinName: "SYLVANIA Smart + RGBW"
 		
-		fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006,0008,0300,1000,0B04,0B05,FC0F,FC01,FC03", outClusters: "0019,1000", manufacturer: "GLEDOPTO", model: "GL-C-008", deviceJoinName: "GLEDOPTO Zigbee RGB+CCT Controller", endpointId: "0B"
-		
+	fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006,0008,0300,1000,0B04,0B05,FC0F,FC01,FC03", outClusters: "0019,1000", manufacturer: "GLEDOPTO", model: "GL-C-007", deviceJoinName: "GLEDOPTO Zigbee RGB+CCT Controller", endpointId: "0B"
+	fingerprint profileId: "C05E", inClusters: "0000,0003,0004,0005,0006,0008,0300,1000,0B04,0B05,FC0F,FC01,FC03", outClusters: "0019,1000", manufacturer: "GLEDOPTO", model: "GL-C-008", deviceJoinName: "GLEDOPTO Zigbee RGB+CCT Controller", endpointId: "0B"
+	    
         //fingerprint profileId:"C05E", endpointId:"0B", inClusters:"0000,0003,0004,0005,0006,0008,0300", model:"GL-MC-001", manufacturer:"GLEDOPTO", deviceJoinName: "GLEDOPTO Mini Zigbee RGB+CCT Controller"
 		//fingerprint profileId:"C05E", endpointId:"0B", inClusters:"0000,0003,0004,0005,0006,0008,0300", model:"GL-C-008", manufacturer:"GLEDOPTO", deviceJoinName: "GLEDOPTO Zigbee RGB+CCT Controller"
 
